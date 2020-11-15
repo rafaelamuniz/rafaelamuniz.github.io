@@ -1,11 +1,22 @@
 #test
 {
-	position: absolute;
-    left: 0;
-    top: 0;
-    display: block;
-    width: 100%;
-    height: 100%;
+	text-align: center;
+	color:#FFFFFF;
+	background-image: url('climate-change-2254711_1920.jpg');
+	padding-bottom: 125px;
+	padding-top: 125px;
+
+}
+#title
+{
+	font-size: 50px;
+	margin-bottom: 0;
+}
+#subtitle
+{
+	font-size:10px;
+	margin-top: 0;
+
 }
 .left
 {
