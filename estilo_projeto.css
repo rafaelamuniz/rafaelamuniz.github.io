@@ -1,21 +1,17 @@
-#test
-{
-	text-align: center;
-	color:#FFFFFF;
-	background-image: url('climate-change-2254711_1920.jpg');
-	padding-bottom: 125px;
-	padding-top: 125px;
 
-}
 #title
 {
+	text-align: center;
+	color:#FFFFF;
 	font-size: 50px;
-	margin-bottom: 0;
+	margin-bottom: auto;
 }
 #subtitle
 {
-	font-size:10px;
-	margin-top: 0;
+	text-align: center;
+	color:#008000;
+	font-size:20px;
+	margin-top: auto;
 
 }
 .left
@@ -26,14 +22,34 @@
 .right
 {
 	float: right;
-	width: 350px;
+	width: 700px;
 }
-#ul
+.active
 {
-	color: #FFFFFF;
-	display: inline;
-	margin-left: 10px;
-	margin-right: 10px;
-	font-size: 14px;
+	background: darkcyan;
+    border-radius: 50px;
+    border: 2px solid;
+    padding:10px;
+    border-color: rgba(255,255,255,.8);
+    color: transparent;
 
+}
+.ul
+{
+	color: #fffff;
+	display: -webkit-inline-box;
+	margin-left:800px;
+	margin-right: 15px;
+	font-size: 20px;
+
+}
+.btn
+{
+	background-color: #120A8F;
+	color: #FFFFFF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: inline-block;
+	text-align: center;
+	width: 2000px;
 }
