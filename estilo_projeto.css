@@ -48,8 +48,9 @@
 {
 	background-color: #120A8F;
 	color: #FFFFFF;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	-webkit-column-width: 580px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	display: inline-block;
 	text-align: center;
 	width: 2000px;
