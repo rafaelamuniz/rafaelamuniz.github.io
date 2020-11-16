@@ -23,6 +23,7 @@
 {
 	float: right;
 	width: 700px;
+	-webkit-column-width: 600px;
 }
 .active
 {
@@ -52,4 +53,31 @@
 	display: inline-block;
 	text-align: center;
 	width: 2000px;
+}
+.footer
+{
+	background-color: #1F1F1F;
+	color: white;
+	display: inline-block;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-top: 40px;
+
+}
+.footer-left
+{
+	float: left;
+	width: 370px;
+
+}
+.footer-mid
+{
+	float: left;
+	width: 370px;
+
+}
+.footer-right
+{
+	float: left;
+	width: 370px;
 }
