@@ -68,7 +68,7 @@
 	/* Standard syntax */
 	justify-content: center;
 	align-items: center;
-	background-color: #1b19b3;
+	background-color: #bb3a20;
 	color: #ffffff;
 	font-family: var(--font-action);
 	opacity: 0;
@@ -78,7 +78,7 @@
 .hamburguer span::before {
 	content: "";
 	position: absolute;
-	border-right: .5rem solid #1b19b3;
+	border-right: .5rem solid #bb3a20;
 	border-top: .5rem solid transparent;
 	border-left: .5rem solid transparent;
 	border-bottom: .5rem solid transparent;
