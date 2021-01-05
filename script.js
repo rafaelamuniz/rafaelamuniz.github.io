@@ -5,3 +5,7 @@ document.querySelector(".hamburguer").addEventListener("click", () =>
 document.querySelector(".abas").addEventListener("click", () =>
     document.querySelector(".sections").classList.toggle("show-notices")
 );
+
+function contactButtonFunction() {
+    document.querySelector(".hamburguer").click();
+}
