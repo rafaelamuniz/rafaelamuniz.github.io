@@ -171,12 +171,8 @@ header {
 	color: #ffffff;
 	letter-spacing: .1rem;
 	text-transform: uppercase;
-	background: #1a2a6c;
+	background: #bb3a20;
 	/* fallback for old browsers */
-	background: -webkit-linear-gradient(to left, #bb3a20, #bb3a20, #1b19b3);
-	/* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to left, #bb3a20, #bb3a20, #1b19b3);
-	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	padding: 0.8rem 2.8rem;
 	border: none;
 	border-radius: 20px;
